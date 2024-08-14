@@ -152,7 +152,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "disney",
+        "collection": "ds",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
