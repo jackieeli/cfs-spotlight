@@ -58,36 +58,6 @@
         "show_text_below": true
       }
     },
-    "rich_text_DdBBbV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nDzkz4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Factory Specials",
-            "heading_size": "h1"
-          }
-        },
-        "text_GBjg4z": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Buy 2 get 15% off, Buy 3 get 30% off<\/strong><\/p><p><strong>Free shipping worldwide<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_nDzkz4",
-        "text_GBjg4z"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -203,7 +173,6 @@
   },
   "order": [
     "image_banner_WFGjwz",
-    "rich_text_DdBBbV",
     "featured_collection",
     "featured_collection_tBVUf3",
     "featured_collection_zWnRd7",
