@@ -1,1 +1,201 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"dropdown","swatch_shape":"circle"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"icon_with_text_7Ud4PQ":{"type":"icon-with-text","settings":{"layout":"horizontal","icon_1":"price_tag","heading_1":"Buy 2 get 15% off","icon_2":"price_tag","heading_2":"Buy 3 get 30% off","icon_3":"truck","heading_3":"Free shipping"}},"description":{"type":"description","settings":{}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["title","price","variant_picker","quantity_selector","buy_buttons","icon_with_text_7Ud4PQ","description","share"],"settings":{"enable_sticky_info":false,"color_scheme":"scheme-1","media_size":"medium","constrain_to_viewport":false,"media_fit":"contain","gallery_layout":"thumbnail_slider","media_position":"left","image_zoom":"lightbox","mobile_thumbnails":"hide","hide_variants":false,"enable_video_looping":false,"padding_top":16,"padding_bottom":0}},"multicolumn_VDq6zR":{"type":"multicolumn","blocks":{"column_QAfUJn":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/b5a6189078e15873b15550ff42225463.png","title":"","text":"<p>8.2 ft. drop protection<\/p>","link_label":"","link":""}},"column_hj9kJc":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/c70b022b0e0dc0a999f4e6831b3245ae.png","title":"","text":"<p>Side sockets for attachment<\/p>","link_label":"","link":""}},"column_KUWPHw":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/c2c8fd9b9151dc8f1db6ef465a898354.png","title":"","text":"<p>Wireless charging<\/p>","link_label":"","link":""}},"column_rW6HcD":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/0102a2ee1dfa20f7dd6c45fe600c639c.png","title":"","text":"<p>EcoShock™ material<\/p>","link_label":"","link":""}},"column_XaryfY":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/ecc085ca6b89a6d935c69e326cbfe15b.png","title":"","text":"<p>4x MIL-STD-810G<\/p>","link_label":"","link":""}},"column_n4My8x":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/e7f20190a49ed536e25250bb9e03a781.png","title":"","text":"<p>Made from Re\/CASETiFY<\/p>","link_label":"","link":""}}},"block_order":["column_QAfUJn","column_hj9kJc","column_KUWPHw","column_rW6HcD","column_XaryfY","column_n4My8x"],"settings":{"title":"","heading_size":"h1","image_width":"third","image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"","columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"related-products":{"type":"related-products","settings":{"heading":"Related products","heading_size":"h2","products_to_show":8,"columns_desktop":4,"color_scheme":"scheme-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":8,"padding_bottom":28}}},"order":["main","multicolumn_VDq6zR","related-products"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_7Ud4PQ": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "heading_1": "",
+            "icon_2": "none",
+            "heading_2": "",
+            "icon_3": "truck",
+            "heading_3": "Free shipping"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "icon_with_text_7Ud4PQ",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "color_scheme": "scheme-1",
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_VDq6zR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QAfUJn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>8.2 ft. drop protection<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hj9kJc": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Side sockets for attachment<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KUWPHw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Wireless charging<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rW6HcD": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>EcoShock™ material<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XaryfY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>4x MIL-STD-810G<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_n4My8x": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Made from Re\/CASETiFY<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QAfUJn",
+        "column_hj9kJc",
+        "column_KUWPHw",
+        "column_rW6HcD",
+        "column_XaryfY",
+        "column_n4My8x"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Related products",
+        "heading_size": "h2",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 8,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_VDq6zR",
+    "related-products"
+  ]
+}
