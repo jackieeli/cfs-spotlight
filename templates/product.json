@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -45,10 +45,10 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "none",
-            "heading_1": "",
-            "icon_2": "none",
-            "heading_2": "",
+            "icon_1": "price_tag",
+            "heading_1": "Buy 2 get 15% off",
+            "icon_2": "price_tag",
+            "heading_2": "Buy 3 get 30% off",
             "icon_3": "truck",
             "heading_3": "Free shipping"
           }
@@ -98,7 +98,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>8.2 ft. drop protection<\/p>",
+            "text": "<p>8.2 ft. drop protection</p>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +107,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Side sockets for attachment<\/p>",
+            "text": "<p>Side sockets for attachment</p>",
             "link_label": "",
             "link": ""
           }
@@ -116,7 +116,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Wireless charging<\/p>",
+            "text": "<p>Wireless charging</p>",
             "link_label": "",
             "link": ""
           }
@@ -125,7 +125,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>EcoShock™ material<\/p>",
+            "text": "<p>EcoShock™ material</p>",
             "link_label": "",
             "link": ""
           }
@@ -134,7 +134,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>4x MIL-STD-810G<\/p>",
+            "text": "<p>4x MIL-STD-810G</p>",
             "link_label": "",
             "link": ""
           }
@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Made from Re\/CASETiFY<\/p>",
+            "text": "<p>Made from Re/CASETiFY</p>",
             "link_label": "",
             "link": ""
           }
