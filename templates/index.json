@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner_WFGjwz": {
@@ -14,13 +14,15 @@
       "blocks": {
         "heading_PDbdpm": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Casetify Factory is here <a href=\"https:\/\/emojipedia.org\/factory\" target=\"_self\">🏭<\/a>",
+            "heading": "Casetify Factory is here <a href=\"https://emojipedia.org/factory\" target=\"_self\">🏭</a>",
             "heading_size": "h2"
           }
         },
         "text_PyrxRV": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Enjoy the same quality at a cheaper price & get the products directly from the factory",
             "text_style": "body"
@@ -28,9 +30,10 @@
         },
         "buttons_axGaeW": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop All",
-            "button_link_1": "shopify:\/\/collections\/all-products",
+            "button_link_1": "shopify://collections/all-products",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,8 +47,7 @@
         "buttons_axGaeW"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-1.webp",
-        "image_2": "shopify:\/\/shop_images\/banner-2.webp",
+        "image": "shopify://shop_images/shopify-shop-banner.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
