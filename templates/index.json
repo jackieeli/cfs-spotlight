@@ -47,7 +47,8 @@
         "buttons_axGaeW"
       ],
       "settings": {
-        "image": "shopify://shop_images/shopify-shop-banner-square.jpg",
+        "image": "shopify://shop_images/8e18d80a0b7e4d3b6084b75a7a24b528.png",
+        "image_2": "shopify://shop_images/1b54814b40454d5a2aca37d566482d58.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
