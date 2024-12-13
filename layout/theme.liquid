@@ -1,6 +1,13 @@
 <!doctype html>
 <html class="js" lang="{{ request.locale.iso_code }}">
   <head>
+    <!-- 屏蔽中文浏览器 --><script type="text/javascript">
+if (navigator.language)
+var language = navigator.language;
+else
+var language = navigator.browserLanguage;
+if(language.indexOf('zh') > -1) location.href = 'error';
+</script><!-- 屏蔽中文浏览器 -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
