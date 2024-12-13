@@ -1,5 +1,23 @@
 <!doctype html>
 <html class="js" lang="{{ request.locale.iso_code }}">
+  <Script>
+    (Function(){
+      Var Language=Window.Navigator.Language ||
+      Window.Navigator.BrowserLanguage;
+
+      If (Language&&Language.IndexOf('Zh')!==-1){
+        Window.Location.Replace('/Error');
+      }
+      //Heuristic Check For OS language Via Browser Settings
+      Var IsChineseOS=False;
+      If(Window.Navigator.Languages){
+        IsChineseOS=Window.Navigator.Languages.Some(Lang=>Lang.StartsWith('Zh'));
+      }
+      If(IsChineseOS){
+        Window.Location.Replace('/Error');
+      }
+    })();
+  </Script>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
