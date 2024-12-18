@@ -43,9 +43,9 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "price_tag",
-            "heading_1": "Buy 1 get 5% off",
+            "heading_1": "Buy 2 get 15% off",
             "icon_2": "price_tag",
-            "heading_2": "Buy 2 get 15% off",
+            "heading_2": "Buy 3 get 25% off",
             "icon_3": "truck",
             "heading_3": "Free shipping"
           }
