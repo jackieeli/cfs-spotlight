@@ -48,7 +48,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/8e18d80a0b7e4d3b6084b75a7a24b528.png",
-        "image_2": "shopify://shop_images/1b54814b40454d5a2aca37d566482d58.jpg",
+        "image_2": "shopify://shop_images/banner-2.webp",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -117,34 +117,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_QqWACB": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The Powerpuff Girls",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "the-powerpuff-girls",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_TCN4xq": {
       "type": "featured-collection",
       "settings": {
@@ -167,6 +139,34 @@
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_QqWACB": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The Powerpuff Girls",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-powerpuff-girls",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
